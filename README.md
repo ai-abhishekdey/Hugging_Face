@@ -12,14 +12,14 @@
 * Click on **Create new token**
 
 <p align="left">
-<img src="img/1.png" width="800" height="480">
+<img src="images/1.png" width="800" height="480">
 </p>
 
 
 * Create a token in **write** model and save the token in a text file
 
 <p align="left">
-<img src="img/2.png" width="800" height="480">
+<img src="images/2.png" width="800" height="480">
 </p>
 
 
