@@ -32,7 +32,11 @@ conda create -n hf_env python=3.10
 
 conda activate hf_env
 
-pip3 install -r requirements.txt
+python -m pip install --upgrade pip
+
+pip install --upgrade huggingface_hub transformers sentence-transformers bitsandbytes torch
+
+pip install -r requirements.txt
 
 
 ```

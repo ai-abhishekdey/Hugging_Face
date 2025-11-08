@@ -1,16 +1,11 @@
-huggingface_hub>=0.33.1
 python-dotenv
 matplotlib
 numpy
 pandas
-torch
-transformers
-sentence-transformers
 evaluate
 evaluate[visualization]   
 rouge_score
 accelerate
-bitsandbytes
 langchain-huggingface
 langchain_community
 ipykernel
