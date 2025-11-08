@@ -8,4 +8,5 @@ rouge_score
 accelerate
 langchain-huggingface
 langchain_community
+tokenizer
 ipykernel
